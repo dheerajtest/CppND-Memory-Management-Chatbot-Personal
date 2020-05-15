@@ -1,4 +1,3 @@
-
 // define all graph nodes
 <TYPE:NODE><ID:0><ANSWER:Welcome! My name is MemBot. You can ask me about things related to memory management in C++. Possible topics are 'pointers' and 'the C++ memory model'. What would you like to talk about?>
 
